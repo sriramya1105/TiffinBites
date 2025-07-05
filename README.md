@@ -17,8 +17,6 @@ A responsive website for ordering homemade South Indian tiffins with cart functi
 - CSS3
 - JavaScript
 
-## How to Run
+## Live Demo👇
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/TiffinBites.git
+https://tiffinbitesrestro.netlify.app/
